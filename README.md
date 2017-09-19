@@ -1,5 +1,5 @@
 # About 
-This work present homework number 2, part 2 for the school year 2016/2017 in [Digital Signal Processing](http://tnt.etf.rs/~oe3dos/) in the 3nd year, Department of Electronics, School of Electrical Engineering, University of Belgrade.
+This work present homework number 2, part 2 for the school year 2016/2017 in [Digital Signal Processing](http://tnt.etf.rs/~oe3dos/) in the 3rd year, Department of Electronics, School of Electrical Engineering, University of Belgrade.
 
 # About the homework number 2 in Serbian
 Cilj drugog domaćeg zadatka je da studenti samostalno probaju osnovne metode projektovanja IIR filtara i da projektovane filtre iskoriste za filtriranje signala u određenim primerima.
